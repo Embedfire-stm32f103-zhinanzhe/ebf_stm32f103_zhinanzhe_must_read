@@ -1,7 +1,0 @@
-野火所有产品资料下载链接：
-http://products.embedfire.com
-
-包含开发板、开源图书、模块、下载器、上位机、封装库等所有野火产品资料。
-
-产品购买链接：
-淘宝店铺：https://fire-stm32.taobao.com/
